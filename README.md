@@ -1,3 +1,3 @@
-simple-app
+playground
 =========
-Maven starter template for a simple app
+Just a playground for code
