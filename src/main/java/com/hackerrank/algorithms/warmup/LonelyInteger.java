@@ -1,4 +1,4 @@
-package com.hackerrank.gridsearch;
+package com.hackerrank.algorithms.warmup;
 
 import java.util.Scanner;
 
